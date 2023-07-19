@@ -1,5 +1,5 @@
 <h3>Video list manager 📺</h3>
-<p>Simple videos manager page project for PHP practice.</p>
+<p>Simple video management page project for PHP practice.</p>
 
 #
 <h3>Technologies</h3>
